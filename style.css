@@ -1,0 +1,7 @@
+.toast {
+  position: absolute;
+  top: 80vh;
+  right: 5vw;
+  margin: 10px; /* Ajustez la marge selon vos besoins */
+  z-index: 9999; /* Assurez-vous que le toast est au-dessus de tout le contenu */
+}
